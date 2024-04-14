@@ -1,0 +1,11 @@
+{
+  "name": "partitioning-example",
+  "version": "1.0.0",
+  "description": "Partitionig Customers",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "pg": "^8.11.5"
+  }
+}
